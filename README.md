@@ -1,4 +1,4 @@
-# Tarro card fortune teller
+# Tarot card fortune teller
 ## Description
-Random daily fortune teller, tarro card generator writen on JavaScript.
+Random daily fortune teller, tarot card generator writen on JavaScript.
 
